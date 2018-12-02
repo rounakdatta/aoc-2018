@@ -1,3 +1,5 @@
-AdventOfCode2018.py
+*AdventOfCode2018*.**py**
 
-*make aoc day=**1** part=**1***
+```bash
+make aoc day=1 part=1
+```

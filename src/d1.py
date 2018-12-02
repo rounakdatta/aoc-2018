@@ -15,7 +15,7 @@ def p1():
 def p2():
 
 	# get input
-	f = open('../input/d1.txt')
+	f = open('./input/d1.txt')
 	inp = f.readlines()
 	inp = [foo.strip() for foo in inp]	
 
